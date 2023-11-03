@@ -16,5 +16,5 @@ _Most specifically, I hope to gather the following:_
 ## Portfolio
 This section will be built out at a later date, upon the completion of more assignments in the course. 
 
-### [Data Visualization #2](/DataViz2)
+* ### [Data Visualization #2](/DataViz2.md)
 

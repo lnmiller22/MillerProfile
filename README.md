@@ -14,7 +14,6 @@ _Most specifically, I hope to gather the following:_
 * As is applicable to certain softwares and the scope of the course, the ability to apply my current coding skills developped in my undergraduate and graduate studies to learn productive systems for displaying and integrating data-driven storytelling in my future work at arts organizations
 
 ## Portfolio
-This section will be built out at a later date, upon the completion of more assignments in the course. 
-
+Use the links below to access projects completed in association with this course:
 * ### [Data Visualization #2](/DataViz2.md)
 

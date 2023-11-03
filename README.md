@@ -17,3 +17,4 @@ _Most specifically, I hope to gather the following:_
 This section will be built out at a later date, upon the completion of more assignments in the course. 
 
 ### [Data Visualization #2](/DataViz2)
+

@@ -15,5 +15,6 @@ _Most specifically, I hope to gather the following:_
 
 ## Portfolio
 Use the links below to access projects completed in association with this course:
+* ### [American's Trust in Media Outlets Visualizations](/MediaTrust.md)
 * ### [Data Visualization #2](/DataViz2.md)
 

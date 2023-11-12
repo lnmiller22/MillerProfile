@@ -2,7 +2,10 @@
 [Return to Home Page](/README.md)
 
 ## Original Visualization
+I selected the following visualization for this assignment largely due to the fact that they are statistics I have engaged with before and have seen commonly referenced in calls for living wages for all Americans. However, upon opening the link I was struck how relatively "basic" the visualization was, and how much more could be pulled from the dataset to support the subject at hand. In addition, for the purposes of this assignment, I wanted to select a visual that would challenge my ability to restructure aesthetics while not falling victim to my common tendancy to go overboard with content dumping. As will be revealed in the remainder of this analysis, this graphic was not only a topic I am passionate about in my personal life, but the perfect challenge to build my aesthetics-based data visualization skills. 
+
 ![minimum wage visual](minimumwage.webp)
+
 > **Visualization Source** Kiersz, Andy. "Amazon will Raise Workers' Minimum Wage to $15 an Hour, More Than Twice the Federal Minimum -- Here's How Many People in Each State Make Minimum Wage or Less." Personal Finance. _Business Insider_. March 4, 2019. https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T. 
 
 > **Data Source** U.S. Bureau of Labor Statistics. _Characteristics of Minimum Wage Workers, 2021_. April 2022. Distributed by the U.S. Bureau of Labor Statistics. https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm.

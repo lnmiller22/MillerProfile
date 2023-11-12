@@ -66,3 +66,21 @@ This method was quite successful for me as it was necessary to think about diffe
 Following the above analysis, I sketched a draft of how the graphic could be improved. Ultimately, I landed on maintaining the simple map format, but providing another interactive element below the map to highlight change over time for individual states in the United States. As notated on the quick drawing, context statements will be provided and there will be an updated color palette. For the sketch, I worked with the colors I had in my collection (as can be seen, largely pink), and sought more insight for color palettes from my peers in our forthcoming discussions. 
 
 ![data sketch](datasketch.png)
+
+### Feedback #1: Adult, early-50s
+**What is this data visualization sketch telling you?** "The graphic is showing the percentage of hourly American workers making minimum wage or less in 2021 based on their geographical location using a map. This makes me look for trends in areas/regions across the country. The graph below the map makes it simple to look for those trends by state and deepen my understanding of what has occurred."
+
+**Do you find anything surprising or confusing in the layout?** "The layout is simple and straight forward. It isn’t confusing at all to read. I am wondering if you are “saying something” with the states you chose to specifically name the percentage for (Alaska, California, Kentucky, etc.) Were these randomly selected or are you sending the reader a message?"
+
+**Who do you think is the intended audience for this visual?** "I think the audience would be anyone wanting to share accurate information about the percentage of the population making minimum wage or less (political candidates, activists, government officials, social workers, support focused agencies, etc.)"
+
+**Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?** "I would consider changing the color palette to something that could be easily transferred to a black and white copy. Also, pinks and purples tend to be “cheery” colors and this isn’t a “happy topic”. (I understand your color choices were limited for this graphic.) I love the graph that shows trends by state. This makes it so someone doesn’t only see the current situation but they can make predictions about what could happen in the future."
+
+### Feedback #2: Adult, mid-20s
+Insert data here 
+
+### Analysis
+The visualization generally seems to be easily comprehensible in topic, which was valuable to hear as one of my main goals was to maintain the easy comprehensibility of the graphic at hand. The only confusion the first respondant had was regarding which states were labeled on my mock-up sketch, which will be easily solved when all the states are actually represented on the visualization. 
+
+I enjoyed the feedback from the first respondant that they saw the visualization as a potential tool, rather than just a tidbit of knowledge within the context of the article at hand. Changes I will preominently adopt to following this feedback are as follows: 
+* Alter the color palette to something less "cheery" and/or bright that may be readily converted to black-and-white if needed

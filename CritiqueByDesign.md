@@ -1,4 +1,6 @@
 # Critique By Design: Federal Minimum Wage by State
+[Return to Home Page](/README.md)
+
 ## Original Visualization
 ![minimum wage visual](minimumwage.webp)
 > **Visualization Source** Kiersz, Andy. "Amazon will Raise Workers' Minimum Wage to $15 an Hour, More Than Twice the Federal Minimum -- Here's How Many People in Each State Make Minimum Wage or Less." Personal Finance. _Business Insider_. March 4, 2019. https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T. 

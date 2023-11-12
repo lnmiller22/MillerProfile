@@ -58,3 +58,8 @@ This method was quite successful for me as it was necessary to think about diffe
 * Include some representation of **change over time** (either on the visualization or in a dashboard format)
 * Rework the color grading scale to be more bold and in line with the "negative connotation" of these values
 * Introduce more Serif fonts to match the style of the article itself
+
+## Sketch a Solution
+Following the above analysis, I sketched a draft of how the graphic could be improved. Ultimately, I landed on maintaining the simple map format, but providing another interactive element below the map to highlight change over time for individual states in the United States. As notated on the quick drawing, context statements will be provided and there will be an updated color palette. For the sketch, I worked with the colors I had in my collection (as can be seen, largely pink), and sought more insight for color palettes from my peers in our forthcoming discussions. 
+
+![data sketch](datasketch.png)

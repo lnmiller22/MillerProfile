@@ -6,7 +6,7 @@
 > **Data Source** U.S. Bureau of Labor Statistics. _Characteristics of Minimum Wage Workers, 2021_. April 2022. Distributed by the U.S. Bureau of Labor Statistics. https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm.
 
 ## Data Visualization Effectiveness Profile (Stephen Few)
-All of the following rankings are conducted on a scale of 0 to 10, with 0 being "worst" and 10 being "best."
+All of the following rankings are conducted on a scale of 0 to 10, with 0 being "worst" and 10 being "best" for each respective category.
 
 ### What visualization are you ranking? Provide the title and web-accessible URL.
 "Workers Making Minimum Wage or Less" by Andy Kiersz using data from the U.S. Bureau of Labor Statistics for Business Insider. The particular iteration of the visualization created used U.S. Bureau of Labor Statistics data collected in 2017, distributed in 2018.

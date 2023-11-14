@@ -1,4 +1,4 @@
-# Critique By Design: Federal Minimum Wage by State
+# Critique By Design: Federal Minimum Wage Comparisons
 [Return to Home Page](/README.md)
 
 ## Original Visualization

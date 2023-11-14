@@ -2,7 +2,7 @@
 [Return to Home Page](/README.md)
 
 ## Original Visualization
-I selected the following visualization for this assignment largely due to the fact that they are statistics I have engaged with before and have seen commonly referenced in calls for living wages for all Americans. However, upon opening the link I was struck how relatively "basic" the visualization was, and how much more could be pulled from the dataset to support the subject at hand. In addition, for the purposes of this assignment, I wanted to select a visual that would challenge my ability to restructure aesthetics while not falling victim to my common tendancy to go overboard with content dumping. As will be revealed in the remainder of this analysis, this graphic was not only a topic I am passionate about in my personal life, but the perfect challenge to build my aesthetics-based data visualization skills. 
+I selected the following visualization largely due to the fact that they are statistics I have engaged with before and have seen commonly referenced in calls for living wages for all Americans. However, upon opening the link I was struck how relatively "basic" the visualization was, and how much more could be pulled from the dataset to support the subject at hand. In addition, for the purposes of this assignment, I wanted to select a visual that would challenge my ability to restructure aesthetics while not falling victim to my common tendancy to go overboard with content dumping. As will be revealed in the remainder of this analysis, this graphic was not only a topic I am passionate about in my personal life, but the perfect challenge to build my aesthetics-based data visualization skills. 
 
 ![minimum wage visual](minimumwage.webp)
 

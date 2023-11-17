@@ -18,4 +18,4 @@ Use the links below to access projects completed in association with this course
 * ### [Americans' Trust in Media Outlets (In-Class Exercise)](/NewsMediaTrust.md)
 * ### [Global Government Debt (Data Visualization #2)](/DataViz2.md)
 * ### [Minimum Wage by State (Critique by Design)](/CritiqueByDesign.md)
-* ### [Final Project Planning Process](/finalprojectp2.md)
+* ### [Final Project Planning Process](/finalprojectp1.md)

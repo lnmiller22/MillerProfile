@@ -22,15 +22,27 @@ This visualization assignment will seek to raise awareness of the above-explaine
 * As a United States education policy-maker, I want to know how linguistic diversity affects student performance so that I can best shape my advocacy and crafted policy. 
 
 ### Tenatative Data Outline (Through Questions to be Answered):
+The following section has a general overview of the visualization-based story I plan to create. Sketches for specific visualizations are only provided for a selection of the sections thus far, as there is a large amount of data from which stories could be pulled and I am aiming to land on what will be the most impactful. 
+
 #### 1. What percentage of U.S. citizens speak a language other than English, how has this changed over time?
 **SOURCE:** Dietrich, Sandy and Erik Hernandez. "Language Use in the United States: 2019." _United States Census Bureau_. September 1, 2022. https://www.census.gov/library/publications/2022/acs/acs-50.html.
+
 For this first section of data, I plan to highlight the fact that between 1980 and 2019 the percentage change in monolingual individuals in the U.S. was 28.8%, while the percent chane in multilingual individuals was 194% (Dietrich and Hernandez, 2022). Ultimately, the amount of multilingual individuals in the U.S. is increasing at a disproportionate rate to that of monolingual individuals. This will likely be accomplished with a percent change or change over time area chart with a conclusion pulled out boldly in the text. 
 
 #### 2. What percentage of U.S. K-12 public school students are considered "English Learners"
+**SOURCE:** "English Learners in Public Schools." Preprimary, Elementary, and Secondary Education. _National Center for Education Statistics_. Updated May 2023. https://nces.ed.gov/programs/coe/indicator/cgf/english-learners. 
 
-4. How is English-learning affected as a child continues to age?
-5. What are the effects of time/aging on children's ability to learn English?
-6. What does data suggest on how non-native language instruction affects student performance?
+By and large, I would like the recreate the following visual from the National Center for Education Statistics, presented alongside pulled quote regarding the overall national average and the actual count of how many students this is (to make the overall statistics more staggering or relatable). While doing research, I greatly enjoyed messing with this visualization, and its interactive nature would likely be quite engaging for policy-makers or educations to understand their own state's place in the overall distribution of data. 
+
+#### 3. How is English-learning affected as a child continues to age? & What are the effects of time/aging on children's ability to learn English?
+**SOURCE:** DeKeyser, Robert and Jenifer Larson-Hall. "What Does the Critical Period Really Mean?." In _Handbook of Bilingualism: Psycholinguistic Approaches_, edited by Judith F. Kroll and Annette M.B. de Groot, 88 - 108. New York: Oxford University Press, 2005. https://www.researchgate.net/profile/Jyotsna-Vaid/publication/270582623_Clearing_the_cobwebs_from_the_study_of_the_bilingual_brain_Converging_evidence_from_laterality_and_electrophysiological_research/links/57cb245508ae5982518358bd/Clearing-the-Cobwebs-From-the-Study-of-the-Bilingual-Brain-Converging-Evidence-From-Laterality-and-Electrophysiological-Research.pdf. 
+
+This section functions largely to pull in the linguistic theory that explains language-based effects on student performance; students are not necessarily performing more poorly in their non-native language as they age because of any individualized cognitive barriers, but rather because of innate challenges that arise in language acquisition as children continue to age out of their critical period for second language acquisition.
+
+#### What does data suggest on how non-native language instruction affects student performance?
+**SOURCE:** Van Ryzin, Mark J. and Claudia G. Vincent. “Use of Native Language and Culture (NLC) in Elementary and Middle School Instruction as a Predictor of Mathematics Achievement.” _Journal of American Indian Education_ 56, no. 2 (2017): 3–33. https://doi.org/10.5749/jamerindieduc.56.2.0003.
+**SOURCE:**
+
 7. How can multilingualism and non-native language be addressed in U.S. education? (CALL TO ACTION)
 
 ## Method and Medium

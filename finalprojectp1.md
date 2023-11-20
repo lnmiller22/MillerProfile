@@ -15,35 +15,45 @@ This visualization assignment will seek to raise awareness of the above-explaine
 
 ## Initial Sketches and Outline 
 **General Guiding Statement:** The preservation of linguistic diversity and non-English learning in the classroom improves K-12 students’ (social belonging and) academic performance. 
-> The social belonging aspect of this story is extremely important, but may be out of scope within the framework of the current assignment; I wish to keep the flow of information as streamlined as possible given the multiple different data sources at play in the story, and I worry that integrating a social perspective would overcomplicate the message. However, I am keeping it in this preliminary guiding statement, with the hope that I can fit it in as applicable. 
+> The social belonging aspect of this story is extremely important, but is likely out of scope within the framework of the current assignment; I wish to keep the flow of information as streamlined as possible given the multiple different data sources at play in the story, and I worry that integrating a social perspective would overcomplicate the message. However, I am keeping it in this preliminary guiding statement, with the hope that I can fit it in as applicable due to its holistic relevance.
 
 **Guiding Intended Audience Statements:** 
-* As a United States educator, I want to know how linguistic diversity affects student performance so that I can best shape my instruction.
-* As a United States education policy-maker, I want to know how linguistic diversity affects student performance so that I can best shape my advocacy and crafted policy. 
+* As a United States **educator**, I want to know how linguistic diversity affects student performance so that I can best shape my instruction.
+* As a United States **education policy-maker**, I want to know how linguistic diversity affects student performance so that I can best shape my advocacy and crafted policy. 
 
 ### Tenatative Data Outline (Through Questions to be Answered):
-The following section has a general overview of the visualization-based story I plan to create. Sketches for specific visualizations are only provided for a selection of the sections thus far, as there is a large amount of data from which stories could be pulled and I am aiming to land on what will be the most impactful. 
+The following section has a _general overview_ of the visualization-based story I plan to create. Sketches for specific visualizations are only provided for a selection of the sections thus far, as there is a large amount of data from which stories could be pulled and I am aiming to land on what will be the most impactful as the project continues to develop.
 
 #### 1. What percentage of U.S. citizens speak a language other than English, how has this changed over time?
-**SOURCE:** Dietrich, Sandy and Erik Hernandez. "Language Use in the United States: 2019." _United States Census Bureau_. September 1, 2022. https://www.census.gov/library/publications/2022/acs/acs-50.html.
+> **SOURCE:** Dietrich, Sandy and Erik Hernandez. "Language Use in the United States: 2019." _United States Census Bureau_. September 1, 2022. https://www.census.gov/library/publications/2022/acs/acs-50.html.
 
 For this first section of data, I plan to highlight the fact that between 1980 and 2019 the percentage change in monolingual individuals in the U.S. was 28.8%, while the percent chane in multilingual individuals was 194% (Dietrich and Hernandez, 2022). Ultimately, the amount of multilingual individuals in the U.S. is increasing at a disproportionate rate to that of monolingual individuals. This will likely be accomplished with a percent change or change over time area chart with a conclusion pulled out boldly in the text. 
 
+![mono vs multi visual](monomulti2.png)
+
 #### 2. What percentage of U.S. K-12 public school students are considered "English Learners"
-**SOURCE:** "English Learners in Public Schools." Preprimary, Elementary, and Secondary Education. _National Center for Education Statistics_. Updated May 2023. https://nces.ed.gov/programs/coe/indicator/cgf/english-learners. 
+> **SOURCE:** "English Learners in Public Schools." Preprimary, Elementary, and Secondary Education. _National Center for Education Statistics_. Updated May 2023. https://nces.ed.gov/programs/coe/indicator/cgf/english-learners. 
 
-By and large, I would like the recreate the following visual from the National Center for Education Statistics, presented alongside pulled quote regarding the overall national average and the actual count of how many students this is (to make the overall statistics more staggering or relatable). While doing research, I greatly enjoyed messing with this visualization, and its interactive nature would likely be quite engaging for policy-makers or educations to understand their own state's place in the overall distribution of data. 
+By and large, I would like the recreate (with credit given, of course) the following visual from the National Center for Education Statistics, presented alongside pulled quote regarding the overall national average and the actual count of how many students this is (to make the overall statistics more staggering or relatable). While doing research, I greatly enjoyed messing with this visualization, and its interactive nature would likely be quite engaging for policy-makers or educations to understand their own state's place in the overall distribution of data. 
 
-#### 3. How is English-learning affected as a child continues to age? & What are the effects of time/aging on children's ability to learn English?
-**SOURCE:** DeKeyser, Robert and Jenifer Larson-Hall. "What Does the Critical Period Really Mean?." In _Handbook of Bilingualism: Psycholinguistic Approaches_, edited by Judith F. Kroll and Annette M.B. de Groot, 88 - 108. New York: Oxford University Press, 2005. https://www.researchgate.net/profile/Jyotsna-Vaid/publication/270582623_Clearing_the_cobwebs_from_the_study_of_the_bilingual_brain_Converging_evidence_from_laterality_and_electrophysiological_research/links/57cb245508ae5982518358bd/Clearing-the-Cobwebs-From-the-Study-of-the-Bilingual-Brain-Converging-Evidence-From-Laterality-and-Electrophysiological-Research.pdf. 
+![NCES visual](coevisual.png)
 
-This section functions largely to pull in the linguistic theory that explains language-based effects on student performance; students are not necessarily performing more poorly in their non-native language as they age because of any individualized cognitive barriers, but rather because of innate challenges that arise in language acquisition as children continue to age out of their critical period for second language acquisition.
+#### 3. How is English-learning affected by age? & What are the effects of time/aging on children's ability to learn English?
+> **SOURCE:** DeKeyser, Robert and Jenifer Larson-Hall. "What Does the Critical Period Really Mean?." In _Handbook of Bilingualism: Psycholinguistic Approaches_, edited by Judith F. Kroll and Annette M.B. de Groot, 88 - 108. New York: Oxford University Press, 2005. https://www.researchgate.net/profile/Jyotsna-Vaid/publication/270582623_Clearing_the_cobwebs_from_the_study_of_the_bilingual_brain_Converging_evidence_from_laterality_and_electrophysiological_research/links/57cb245508ae5982518358bd/Clearing-the-Cobwebs-From-the-Study-of-the-Bilingual-Brain-Converging-Evidence-From-Laterality-and-Electrophysiological-Research.pdf. 
+> **SOURCE:** Dietrich, Sandy and Erik Hernandez. "Language Use in the United States: 2019." _United States Census Bureau_. September 1, 2022. https://www.census.gov/library/publications/2022/acs/acs-50.html.
 
-#### What does data suggest on how non-native language instruction affects student performance?
-**SOURCE:** Van Ryzin, Mark J. and Claudia G. Vincent. “Use of Native Language and Culture (NLC) in Elementary and Middle School Instruction as a Predictor of Mathematics Achievement.” _Journal of American Indian Education_ 56, no. 2 (2017): 3–33. https://doi.org/10.5749/jamerindieduc.56.2.0003.
-**SOURCE:**
+This section functions largely to pull in the linguistic theory that explains language-based effects on student performance. It is important for audience members to grasp that students are not necessarily performing more poorly in their non-native language as they age because of any individualized cognitive or intellectual barriers, but rather because of innate challenges that arise in language acquisition as children continue to age out of their critical period for second language acquisition. **These challenges, then, can be addressed and productively targeted by educators.** This element of the story can also be further supported by a text-based exploration of the distribution of age-based entry to the United States for K-12 public school students. Overall, this phenomena will likely be best explained by a line graph showing the level of achieved profiency in English based on time in the United States as drawn from data collected by the United States Census Bureau.
 
-7. How can multilingualism and non-native language be addressed in U.S. education? (CALL TO ACTION)
+![trajectory by age of entry and nativity](ageofentry.jpeg)
+
+#### 4. What does data suggest on how non-native language instruction affects student performance?
+> **SOURCE:** Van Ryzin, Mark J. and Claudia G. Vincent. “Use of Native Language and Culture (NLC) in Elementary and Middle School Instruction as a Predictor of Mathematics Achievement.” _Journal of American Indian Education_ 56, no. 2 (2017): 3–33. https://doi.org/10.5749/jamerindieduc.56.2.0003.
+> **SOURCE:** "Language Matters, a Lot." Articles. _UNESCO_. Updated April 6, 2023. https://world-education-blog.org/2023/02/21/language-matters-a-lot/#:~:text=As%20the%20World%20Inequality%20Database,speak%20the%20language%20of%20instruction.
+
+As this section is meant to create some form of emotional response and lead naturally into the call for action, the **negative side** data will be highlighted more significantly. This means, for instance, instead of wording a caption or writeup to highlight that students performed X% better when presented with education in their native language, the linguistic or structural focus will be on how students do X% worse when not presented with education in their native language. This is one of the sections where I am still in the process of determining how to best pull from the breadth of data on this topic. However, I expect simple visualizations (e.g. side by side bar graph) or **simple pulled text quotes or large numbers will be the most effective** in drawing out the relative simplicity and importance of the statistics at hand. If a visualization is required, however, I would likely want to pull out the UNESCO data highlighted in the second-listed source above which illustrates that internationally student dropout rates pre-graduation were positively correlated with a lack of native-language instruction. 
+
+#### 5. How can multilingualism and non-native language be addressed in U.S. education? (CALL TO ACTION)
+This section of the story is still in development due to the large number of potential calls to action based upon who the final audience for the visual storytelling ends up being. However, I imagine that it will be presented as a series of resources that offer (relatively instant) opportunities to engage with advocating for multilingual education opportunities to foster student success and alter ones mindset to treat English as simply **_a_** language of instruction, not **_the_** language of instruction in the U.S. education system.
 
 ## Method and Medium
 

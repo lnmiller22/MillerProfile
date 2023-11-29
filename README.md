@@ -19,3 +19,4 @@ Use the links below to access projects completed in association with this course
 * ### [Global Government Debt (Data Visualization #2)](/DataViz2.md)
 * ### [Minimum Wage by State (Critique by Design)](/CritiqueByDesign.md)
 * ### [Final Project Part I (Planning and Research)](/finalprojectp1.md)
+* ### [Final Project Part II (Writeframes and Storyboards)](/finalprojectp2.md)

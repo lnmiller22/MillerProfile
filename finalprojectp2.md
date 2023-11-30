@@ -93,14 +93,14 @@ As a whole, major updates I expect to make (in advance of receiving peer feedbac
 The draft version may be accessed using the following link: https://preview.shorthand.com/4oMiYmyRNH5PZ1cd. 
 
 ## User Research and Interviews
-After reviewing my storyboard, I drafted the following questions to ask my solicited participants. 
+After reviewing my storyboard, I drafted the following questions to ask my solicited participants:
 
   1. What is this data story telling you? What is your primary takeaway from the story?
   2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?
   3. Who do you think the intended audience is for this story?
   5. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?
 
-As drawn out in my previous section of this assignment, my primary target audience is K-12 educators, while the secondary audience is education policy makers. The guiding audience statements are included once again below for reference: 
+These questions are slightly adapted from those that I asked on a previous assignment, which proved extremely helpful in reworking my visualizations and gathering outside perspectives on the work I had completed thus far. As drawn out in my previous section of this assignment, my primary target audience is K-12 educators, while the secondary audience is education policy makers. The guiding audience statements are included once again below for reference: 
 
 > As a United States educator, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my own performance.
 
@@ -108,8 +108,18 @@ As drawn out in my previous section of this assignment, my primary target audien
 
 For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. 
 
-#### Feedback #1: ___________
+### Feedback #1: Male, Mid-20s
+  **1. What is this data story telling you? What is your primary takeaway from the story?** I have learned that many students in america do not speak english as their first language. What's more, the number of these student's is growing. This is a problem because schools are almost universally offered only in English, which leads to decreased learning outcomes for these kids.
+  
+  **2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?** Excellent use of visuals. I was able to connect all of your visuals to the narrative of your story without any of the content becoming overwhelming. I appreciated the consistency of making green the color associated with "English-only" people and the blue/teal being associated with your "English Leaners." 
+  
+  **3. Who do you think the intended audience is for this story?** Educators or policy makers. 
+  
+  **4. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?** No further questions :) I will be interested to hear about how you wrap up the story once the conclusion is complete. 
 
-#### Feedback #2: ___________
+### Feedback #2: ___________
 
-#### Feedback #3: ____________
+### Feedback #3: ____________
+
+## Analysis of User Research and Interviews
+To begin, 

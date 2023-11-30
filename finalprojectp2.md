@@ -73,3 +73,12 @@ However, it is also important to capture that though the number of "English Lear
 ### Section 3: How is English-learning affected by age? & What are the effects of time/aging on children's ability to learn English?
 Once again, this section is designed to pull in the linguistic theory behind the language-based effects on student performance in order to ensure audience members grasp that students are not necessarily performing more poorly in their non-native language as they age because of any individualized cognitive or intellectual barriers, but rather because of innate challenges that arise in language acquisiton as children continue to age out of their critical periods. In this section, I intended to be able to use a line graph showing the level of achieved proficiency in English based on time in the US. However, I am still working on finding the different individual pieces of data used by the US Census Bureau in their similar report. Thus, for the time being, I have created the following simple visual. 
 
+![probgoodenglish](probgoodenglish.png)
+
+Once again, if I can find all of the component data I need (individual line items from different reports from the U.S. Census Bureau) this will be converted into a line graph.
+
+### Sections 4 and 5: What does data suggest on how non-native language instruction affects student performance? & How can multilingualism and non-native language be addressed in U.S. education?
+Following the data-heavy layout of the above sections, I believe these sections will be most effective through the usage of pullquotes and stand-out numbers as to not overwhelm audiences and make the conclusion and call-to-action visually straightforward. Rather than repeating myself too exhaustively, the early stages of how these elements may present are included in my Shorthand draft/storyboard included in the next section. 
+
+## Storyboard
+Using the visualization drafts included above and plans for data presentation walked through in Part I of this assignment, I was able to build out an early draft of my story using Shorthand. 

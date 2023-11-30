@@ -81,4 +81,34 @@ To reiterate, if I can find all of the component data I need (individual line it
 Following the data-heavy layout of the above sections, I believe these sections will be most effective through the usage of pullquotes and stand-out numbers as to not overwhelm audiences and make the conclusion and call-to-action visually straightforward. Rather than repeating myself too exhaustively, the early stages of how these elements may present are included in my Shorthand draft/storyboard included in the next section. 
 
 ## Storyboard
-Using the visualization drafts included above and plans for data presentation walked through in Part I of this assignment, I was able to build out an early draft of my story using Shorthand. 
+Using the visualization drafts included above and plans for data presentation walked through in Part I of this assignment, I was able to build out an early draft of my story using Shorthand. Of course, text is still subject to change and the final resources section still requires formalized language as I continue to hone in on my ultimate call to action. In addition, my final sources list will be updated on the webpage in association with the final stage of this project in order to ensure that it reflects the most up to date picture of the sources I end up using. This is, after all, a draft.
+
+As a whole, major updates I expect to make (in advance of receiving peer feedback) are as follows:
+* Edit all text and add more information where applicable.
+* Unite the color scheme and insert more visuals to make the piece less text heavy where applicable.
+* Insert final bibliography.
+* Find a way to center Tableau graphics and/or make them look better in general.
+* Finalize the resources section. 
+
+The draft version may be accessed using the following link: https://preview.shorthand.com/4oMiYmyRNH5PZ1cd. 
+
+## User Research and Interviews
+After reviewing my storyboard, I drafted the following questions to ask my solicited participants. 
+
+  1. What is this data story telling you? What is your primary takeaway from the story?
+  2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?
+  3. Who do you think the intended audience is for this story?
+  5. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?
+
+As drawn out in my previous section of this assignment, my primary target audience is K-12 educators, while the secondary audience is education policy makers. The guiding audience statements are included once again below for reference: 
+
+> As a United States educator, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my own performance.
+> As a United States education policy-maker, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my advocacy and crafted policy.
+
+For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. 
+
+#### Feedback #1: ___________
+
+#### Feedback #2: ___________
+
+#### Feedback #3: ____________

@@ -75,7 +75,7 @@ Once again, this section is designed to pull in the linguistic theory behind the
 
 ![probgoodenglish](probgoodenglish.png)
 
-Once again, if I can find all of the component data I need (individual line items from different reports from the U.S. Census Bureau) this will be converted into a line graph.
+To reiterate, if I can find all of the component data I need (individual line items from different reports from the U.S. Census Bureau) this will be converted into a line graph in the final stage of this project.
 
 ### Sections 4 and 5: What does data suggest on how non-native language instruction affects student performance? & How can multilingualism and non-native language be addressed in U.S. education?
 Following the data-heavy layout of the above sections, I believe these sections will be most effective through the usage of pullquotes and stand-out numbers as to not overwhelm audiences and make the conclusion and call-to-action visually straightforward. Rather than repeating myself too exhaustively, the early stages of how these elements may present are included in my Shorthand draft/storyboard included in the next section. 

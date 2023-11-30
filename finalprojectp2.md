@@ -84,11 +84,10 @@ Following the data-heavy layout of the above sections, I believe these sections 
 Using the visualization drafts included above and plans for data presentation walked through in Part I of this assignment, I was able to build out an early draft of my story using Shorthand. Of course, text is still subject to change and the final resources section still requires formalized language as I continue to hone in on my ultimate call to action. In addition, my final sources list will be updated on the webpage in association with the final stage of this project in order to ensure that it reflects the most up to date picture of the sources I end up using. This is, after all, a draft.
 
 As a whole, major updates I expect to make (in advance of receiving peer feedback) are as follows:
-* Edit all text and add more information where applicable.
+* Edit all text, add more information where applicable, and finalize the resources section. 
 * Unite the color scheme and insert more visuals to make the piece less text heavy where applicable.
 * Insert final bibliography.
 * Find a way to center Tableau graphics and/or make them look better in general.
-* Finalize the resources section. 
 
 The draft version may be accessed using the following link: https://preview.shorthand.com/4oMiYmyRNH5PZ1cd. 
 
@@ -108,7 +107,7 @@ These questions are slightly adapted from those that I asked on a previous assig
 
 For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. 
 
-### Feedback #1: Male, Mid-20s
+### Feedback #1: Man, Mid-20s (Data Engineer)
   **1. What is this data story telling you? What is your primary takeaway from the story?** I have learned that many students in america do not speak english as their first language. What's more, the number of these student's is growing. This is a problem because schools are almost universally offered only in English, which leads to decreased learning outcomes for these kids.
   
   **2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?** Excellent use of visuals. I was able to connect all of your visuals to the narrative of your story without any of the content becoming overwhelming. I appreciated the consistency of making green the color associated with "English-only" people and the blue/teal being associated with your "English Leaners." 
@@ -117,9 +116,38 @@ For this reason, I wanted to make sure to interview at least one educator to ens
   
   **4. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?** No further questions :) I will be interested to hear about how you wrap up the story once the conclusion is complete. 
 
-### Feedback #2: ___________
+### Feedback #2: Woman, Mid-50s (Public School Educator) 
+  **1. What is this data story telling you? What is your primary takeaway from the story?** This data is showing that the United States is a linguistically diverse nation. In fact, there is an increase in ELs in every state and the numbers are continuing to grow. My primary take away is the US public education system needs to look at how we can best support the academic needs of this population in order to close the gap between the number of ELs vs. non-ELs who graduate high school in four years.
 
-### Feedback #3: ____________
+  **2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?** I feel like focusing on the fact that there are ELs in every state shows that this is an issue for all and is a great starting point for this presentation. The visual “Percentage of Public School ‘English Learner’ Students Per State” strengthens this point. I love that there is a graphic for each section to provide a visual representation for the point being made. The color palette is very effective and pleasing to the viewer. I don’t have any recommendations for what you might do differently after viewing the project.
+
+  **3. Who do you think the intended audience is for this story?** I believe the audience for this material might be leaders who are making decisions around funding and staffing for the ever growing EL population in our schools. I believe teachers would also benefit from this information to understand how important it is to meet their language needs in order for them to complete high school and be on a path for success.
+
+  **4. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?** As an educator in the public schools, I find this information fascinating. We are understaffed and need additional ESOL teachers to meet the needs of our ELs. I would love to see how funding and staffing for ELs has changed over time in relation to the increase in the EL population in our schools.  
+
+### Feedback #3: Woman, Mid-30s (Public School Educator) 
+  **1. What is this data story telling you? What is your primary takeaway from the story?** The data is showing how the population of English Learners is going to continue to grow in the United States, and the US Department of Education needs to make adjustments to better practices to ensure English Learners are gaining ground effectively to learn English. By adjusting these practices, hopefully this will diminish the social and emotional effects ELs are experiencing and result in successful growth and learning.
+
+  **2. Is there anything in particular that works or doesn’t work? Why or why not? What would you differently?** The breakdown of the data with the variety of representations through the graphs works very well. The various graphs and charts show the significance of this issue and give a good representation of the data. The color palette is aesthetically pleasing and does not detract from the information shared. There is nothing I would recommend doing differently at this time.
+
+  **3. Who do you think the intended audience is for this story?** The intended audience for this story is the educational policy makers, curriculum creators and ESOL curriculum teachers throughout the United States. These individuals need to be aware of the growing number of English Learners and how to best fund and equip teachers and resources to meet students’ needs and encourage completion of high school.
+
+  **4. Is there anything else you would like to share with me about this story? Do any further questions arise from your engagement with the material?** As a teacher, I would be curious to know if the number of ESOL teachers has increased like the population of English Learners.  
 
 ## Analysis of User Research and Interviews
-To begin, 
+To begin, I was pleased that all three interviewees seemed to readily grasp the central point of the story, which revolves around the inequities faced by English-Learners / non-native English speakers in the US K-12 public school system. Similarly, the story appeared to have been successful in expressing that the number of English Learners is readily growing in the nation, so inequities will only continue to increase proportionately as the number of English Learners enrolled in public schools continues to increase; all three interviwees mentioned this growth at some point within their responses. 
+
+The second interviewee noted their positive response to the representation of the presence of inequities facing non-native English speakers in every state. Similarly, the third interviewee noted that the graphics-heavy section in the first half of the report functioned well in showing the importance and scale of the issue at hand. I was also pleased to hear that all three participants enjoyed the color scheme: the data engineer pulled out the consistent assignment of color to language group and the two educators noted that the color scheme was aesthetically pleasing and not distracting to the data/story at hand. 
+
+I found it interesting that both teachers noted that while the story is useful for teachers and higher-up decision makers in the education sphere, they both pinpointed staffing of instructors for ELs / ESOL (English as a Second Language) teachers as an intended audience members. I imagine this identification was born out of the fact that these specialized individuals are their primary onsite points of contact for non-native language instruction. While these responses do indeed fit squarely in the scope of my intended audience, I would like to adapt the language of the body text slightly to explicitly address that ideological change should not **only** occur at the level of specialized instructors or policy makers, but rather start in the classroom and work up through every level of the educational system. Further, these responses will likely influence the resources I ultimately select for the final portion of the report. 
+
+Similar to the above point, the mirrored "additional questions" from both of the teachers have made me interested in potentially including a visualization that targets the growth (or lack thereof) of specialized ESOL teachers relative to the growth of English Learners in schools nationwide. For the final revision of the story, I will search for and work to integrate data addressing this gap / potential question identified by members of my intended audience. 
+
+Finally, all three participants snidely remarked via phone or text that they were "big fans" of and "extremely moved by" my to be determined STRONG CONCLUDING STATEMENT. 
+
+Taking into account my own desired changes and the feedback received by the three aforementioned participants, my next steps for revision include the following: 
+* Edit all text, add more information where applicable, and **finalize the resources section.** 
+* Unite the color scheme on graphics with slight differences from the core colors.
+* Insert a visual targeting the presence (or lack of) ESOL teachers in public schools --> _I will also search for potential counts of multilingual educators in the US to juxtapose against the counts of English Learners nationwide. In addition to the presence of ESOL teachers, this data may help draw out the social isolation of English Learners to a degree that I feel is not currently thoroughly enough represented given the severity of the phenomenon. _
+* Find a way to center Tableau graphics and/or make them look better in general. --> _After prompting, none of the interviewees were bothered by the slightly "off" alignment of the Tableau visuals. As such, I will do the best I can but will not be devastated if they cannot be reasonably aligned as ideally as I would like._
+* Insert final bibliography.

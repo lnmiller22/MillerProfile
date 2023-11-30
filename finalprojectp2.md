@@ -103,6 +103,7 @@ After reviewing my storyboard, I drafted the following questions to ask my solic
 As drawn out in my previous section of this assignment, my primary target audience is K-12 educators, while the secondary audience is education policy makers. The guiding audience statements are included once again below for reference: 
 
 > As a United States educator, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my own performance.
+
 > As a United States education policy-maker, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my advocacy and crafted policy.
 
 For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. 

@@ -143,7 +143,7 @@ I found it interesting that both teachers noted that while the story is useful f
 
 Similar to the above point, the mirrored "additional questions" from both of the teachers have made me interested in potentially including a visualization that targets the growth (or lack thereof) of specialized ESOL teachers relative to the growth of English Learners in schools nationwide. For the final revision of the story, I will search for and work to integrate data addressing this gap / potential question identified by members of my intended audience. 
 
-Finally, all three participants snidely remarked via phone or text that they were "big fans" of and "extremely moved by" my to be determined STRONG CONCLUDING STATEMENT. 
+Finally, all three participants snidely remarked via phone or text that they were "big fans" of and "extremely moved by" my to be determined STRONG CONCLUDING STATEMENT. On the whole, the responses were quite unified in their opinions and general tone regarding the story's presentation and its encompassed visualizations. 
 
 Taking into account my own desired changes and the feedback received by the three aforementioned participants, my next steps for revision include the following: 
 * Edit all text, add more information where applicable, and **finalize the resources section.** 

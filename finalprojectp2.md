@@ -105,7 +105,11 @@ These questions are slightly adapted from those that I asked on a previous assig
 
 > As a United States education policy-maker, I want to know how linguistic diversity in the U.S. affects student performance so that I can best shape my advocacy and crafted policy.
 
-For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. Ultimately, I was able to interview two elementary school teachers from a Title 1 school in Virginia: one classroom teacher and one resource specialist. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. 
+For this reason, I wanted to make sure to interview at least one educator to ensure that the information was digestible and the structure was logical from their (very important) perspective. Ultimately, I was able to interview two elementary school teachers from a Title 1 school in Virginia: one classroom teacher and one resource specialist. My remaining interviewee was a peer who has much experience with data visualizations at his place of full time employment; I hoped to be able to get his perspective on the flow of the graphics themselves, not necessarily the body of the story as a whole. Prior to the interview, each interviewee was send the "preview" Shorthand link and provided the following generalized contextual statement:
+
+> The forthcoming story is being actively developed in association with the "Telling Stories with Data" course at Carnegie Mellon University's Heinz College. Throughout this process, you are requested to pay particular attention to the structure of storytelling, major themes, and the relative effectiveness of component visualizations. Let me know if you have any questions, and please answer the following questions upon completion: [Inserted questions from above].
+
+Responses from each interviewee are as follows: 
 
 ### Feedback #1: Man, Mid-20s (Data Engineer)
   **1. What is this data story telling you? What is your primary takeaway from the story?** I have learned that many students in america do not speak english as their first language. What's more, the number of these student's is growing. This is a problem because schools are almost universally offered only in English, which leads to decreased learning outcomes for these kids.

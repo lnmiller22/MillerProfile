@@ -20,3 +20,4 @@ Use the links below to access projects completed in association with this course
 * ### [Minimum Wage by State (Critique by Design)](/CritiqueByDesign.md)
 * ### [Final Project Part I (Planning and Research)](/finalprojectp1.md)
 * ### [Final Project Part II (Writeframes and Storyboards)](/finalprojectp2.md)
+* ### [Final Project Part III (Final Deliverable)](/finalprojectp3.md)

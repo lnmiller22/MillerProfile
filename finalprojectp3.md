@@ -2,8 +2,8 @@
 
 # Final Project Part III: Final Deliverable 
 ## Final Deliverable Link
-### Shorthand: https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/ 
-### Story Text: https://docs.google.com/document/d/1aWNlEF7R9rS_1iov2qpWoWicdtXsHaLIaREsvlaRgvk/edit?usp=sharing
+### Shorthand: [https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/ ](https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/)
+### Story Text: [https://docs.google.com/document/d/1aWNlEF7R9rS_1iov2qpWoWicdtXsHaLIaREsvlaRgvk/edit?usp=sharing](https://docs.google.com/document/d/1aWNlEF7R9rS_1iov2qpWoWicdtXsHaLIaREsvlaRgvk/edit?usp=sharing)
 
 ## Leaps From Part II to Part III
 In addition to grammatical or aesthetic shifts determined on my own accord, a majority of the changes made between drafting and ultimate publication of my Shorthand story were determined by the highly influential participation of educators in the interview process during Part II of this assignment. In fact, speaking with those two interviewees helped me hone in on the fact that I could not simply **assume** that all educators would take the information as applicable to them in terms of _an actual need to take action_, not just mere awareness that there is a substantial problem. For this reason, the early and later stages of the report needed to be adapted to generalize my audience-- something I was not expecting to have to do as I was sorting through the mass of data at the beginning of this project process. To explain further, for the final section, the ultimate "point" of my text ended up being that large scale movements towards language-based equity need to begin with a (widespread as possible) mindset change in all individuals involved in education and education policy (i.e. the education sector). For this reason, it would not have been acceptable to solely have the call to action be support for policy or requests for more ESOL teachers/training in schools. 

@@ -1,9 +1,7 @@
 | [Home Page](/README.md) | [Final PI: Planning & Research](/finalprojectp1.md) | [Final PII: Wireframes & Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) |
 
 # Final Project Part III: Final Deliverable 
-[Return to Home](/README.md)
-
-## Final Deliverable
+## Final Deliverable Link
 ### https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/ 
 
 ## Substantial Changes Made Between Parts II and III

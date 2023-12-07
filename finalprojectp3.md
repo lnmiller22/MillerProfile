@@ -12,6 +12,8 @@ To shape my ultimate call to action for a purposefully broad audience, I ended u
 
 Notably, my key audience members (educators and education policy makers) never changed between the three sections of this assignment. Rather, I found that I needed to make a conscious effort to create storytelling narrow enough in the early stages (see: accessing one's own state or grade level data) to draw readers in, and broad enough in the call to action to ensure education sector readers understand that the starting ideological change is something with which they may all easily participate. 
 
+A more comprehensive list of all changes I made between Part II and Part III is included below: 
+
 * Resized all Tableau visualizations to make them fit more reasonably within the margins of the Shorthand page. Further, as requested, I increased the size of several of the visualizations' titles, increased white space, and reduced font size slightly on the included sources for the visualizations. _(After looking at the story on several of my peers' screens, however, I realized that Tableau and Shorthand will not present the same on every device, so I did the best I could on this front with the information I had. Once again, however, none of my interviewees--even when prompted-- in Part II were bothered by the spacing of these visuals, so I am not substantially concerned with the sizing that I cannot get completely perfect.)_
 * Introduced more white space and spacers to make the story feel less cluttered.
 * Developed call-out, color-coordinated text elements to make strong concluding statements included within the sections stand out. Colors cordinate with the overall scheme, but their size and contrast to white on black text make them pop. 
@@ -19,7 +21,8 @@ Notably, my key audience members (educators and education policy makers) never c
 * Unified the color scheme of all visuals, so it was made consistent that green was the associated color of native English speakers while teal was the associated color of "English Learners." Two of my three interviewees noticed this without prompting in the draft, so I worked to strengthen this theming that clearly had an impact. 
 * Added a set of statistics from the National Center for Education Statistics to pull in the role of ESOL teachers in the current conversation following the perspective of audience members in Part II. I ultimately decided **not** to make a new infographic, as I felt that developing a fully new visual in the same graphic-heavy subsection would have been overwhelming to readers.
 * Built out the final "Resources" section to include brief case studies of Guatemala and Mozambique, an explicit call to action, and working links in the additional call-to-action resources.
-* Updated the final bibliography with new sources integrated since Part I, and posted the final list on the site.
+* As mentioned above, adapted the lanuage in storytelling to capture the wide audience to whom widespread ideological change is targeted. 
+* Updated the final bibliography with new sources integrated since Part I, and posted the final list on both the Shorthand page and the present writeup.
 
 ## Final Bibliography
 Bernhofer, Juliana and Mirco Tonin. “The Effect of the Language of Instruction on Academic 

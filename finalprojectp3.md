@@ -2,7 +2,8 @@
 
 # Final Project Part III: Final Deliverable 
 ## Final Deliverable Link
-### https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/ 
+### Shorthand: https://carnegiemellon.shorthandstories.com/language-education-in-us-public-schools/ 
+### Story Text: https://docs.google.com/document/d/1aWNlEF7R9rS_1iov2qpWoWicdtXsHaLIaREsvlaRgvk/edit?usp=sharing
 
 ## Substantial Changes Made Between Parts II and III
 * Resized all Tableau visualizations to make them fit more reasonably within the margins of the Shorthand page. Further, as requested, I increased the size of several of the visualizations' titles, increased white space, and reduced font size slightly on the included sources for the visualizations. _(After looking at the story on several of my peers' screens, however, I realized that Tableau and Shorthand will not present the same on every device, so I did the best I could on this front with the information I had. Once again, however, none of my interviewees--even when prompted-- in Part II were bothered by the spacing of these visuals, so I am not substantially concerned with the sizing that I cannot get completely perfect.)_

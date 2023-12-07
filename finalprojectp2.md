@@ -1,6 +1,6 @@
-# Final Project Part II: Writeframes and Storyboarding
-[Return to Home Page](/README.md)
+| [Home Page](/README.md) | [Final PI: Planning & Research](/finalprojectp1.md) | [Final PII: Wireframes & Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) |
 
+# Final Project Part II: Writeframes and Storyboarding
 ## Wireframes
 As introduced in the [previous section of this assignment](/finalprojectp1.md), the structure of this project is best organized through a series of questions, beginning with crafting a broad understanding of how many individuals in the US speak a language other than English, and ending on a call to action for educators and education policy-makers to take steps to treat English as **a** language of education in the US, not **the** language of education. This question-based format is copied below for reference: 
 

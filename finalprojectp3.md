@@ -13,8 +13,6 @@
 * Updated the final bibliography with new sources integrated since Part I, and posted the final list on the site.
   
 ## Final Bibliography
-Works Cited:
-
 Bernhofer, Juliana and Mirco Tonin. “The Effect of the Language of Instruction on Academic 
 Performance.” Labor Economics 78, no. 1 (October 2022): 1-12. https://www.sciencedirect.com/science/article/pii/S0927537122001099.
 

@@ -1,5 +1,6 @@
+| [Home Page](/README.md) | [Final PI: Planning & Research](/finalprojectp1.md) | [Final PII: Wireframes & Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) |
+
 # Final Project Part I: Planning and Research
-[Return to Home Page](/README.md)
 
 In this assignment, I will be drawing from my background in linguistics and passion for K-12 education to develop visual storytelling around the necessity of better educational practices regarding native languages in the United States (public) education system. 
 

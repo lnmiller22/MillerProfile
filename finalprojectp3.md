@@ -9,7 +9,8 @@
 * Updated all citations to provide easier cross-reference between content and the bibliography _(e.g. including the title of the piece, not solely the organization when no author or publication information was provided)_
 * Unified the color scheme of all visuals, so it was made consistent that green was the associated color of native English speakers while teal was the associated color of "English Learners"
 * Added a set of statistics from the National Center for Education Statistics to pull in the role of ESOL teachers in the current conversation. I ultimately decided **not** to make a new infographic, as I felt that developing a fully new visual in the same graphic-heavy subsection would have been overwhelming to readers.
-* Built out the final "Resources" section to include brief case studies and working links in the call-to-action. 
+* Built out the final "Resources" section to include brief case studies and working links in the call-to-action.
+* Updated the final bibliography with new sources integrated since Part I, and posted the final list on the site.
   
 
 

@@ -1,4 +1,4 @@
-| [Home Page](/README.md) | [Final PI: Planning & Research](/finalprojectp2.md) | [Final PII: Wireframes & Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) |
+| [Home Page](/README.md) | [Final PI: Planning & Research](/finalprojectp1.md) | [Final PII: Wireframes & Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) |
 
 # Final Project Part III: Final Deliverable 
 [Return to Home](/README.md)

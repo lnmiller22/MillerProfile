@@ -1,4 +1,4 @@
-[Home](/README.md) | [Americans' Trust in Media Outlets](/NewsMediaTrust.md) | [Global Government Debt](/DataViz2.md) | [Minimum Wage by State](/CritiqueByDesign.md) | [Final P1: Planning and Research](/finalprojectp1.md) | [Final P2: Wireframes and Storyboards](/finalprojectp2.md) | [Final P3: Final Deliverable](/finalprojectp3.md) | 
+[Home](/README.md) | [Americans' Trust in Media Outlets](/NewsMediaTrust.md) | [Global Government Debt](/DataViz2.md) | [Minimum Wage by State](/CritiqueByDesign.md) | [Final PI: Planning and Research](/finalprojectp1.md) | [Final PII: Wireframes and Storyboards](/finalprojectp2.md) | [Final PIII: Final Deliverable](/finalprojectp3.md) | 
 
 # Lauren Miller Profile
 ## *Telling Stories with Data, Fall 2023*
